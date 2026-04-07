@@ -10,8 +10,6 @@
 // @run-at       document-start
 // @license      MIT
 // @require      https://www.torn.com/js/script/lib/jquery-1.8.2.js
-// @downloadURL https://update.greasyfork.org/scripts/463484/Heasley%27s%20Egg%20Navigator.user.js
-// @updateURL https://update.greasyfork.org/scripts/463484/Heasley%27s%20Egg%20Navigator.meta.js
 // ==/UserScript==
 
 
